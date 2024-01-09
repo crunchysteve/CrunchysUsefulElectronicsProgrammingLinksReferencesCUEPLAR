@@ -1,4 +1,4 @@
-# Crunchy's Useful Electronics & Programming Links And References (CUEPLAR) 
+# Crunchy's Useful Electronics & Programming Links & References (CUEPLAR) 
 ####(Edit date: 20240109 15:58)
 <hr />
 

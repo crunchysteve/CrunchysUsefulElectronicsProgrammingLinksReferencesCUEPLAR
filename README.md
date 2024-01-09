@@ -1,4 +1,6 @@
-# Crunchy's Useful Electronics & Programming Links And References (CUEPLAR) (Edit date: 20240109 15:55)
+# Crunchy's Useful Electronics & Programming Links And References 
+#### (CUEPLAR) (Edit date: 20240109 15:58)
+
 Just a personal list of links to online reference books for current projects. Public because not everybody knows where to find this stuff at the beginning and Google can be no help some days! There's a little order to this list, but it is still very much a "no particular order" kind of beast.
 
 If you find any links have changed, broken or otherwise gone AWOL, open an issue, preferrably with a new link if you can find one.

@@ -22,4 +22,12 @@ If you find any links have changed, broken or otherwise gone AWOL, open an issue
   1.  [Joplin Notes](https://joplinapp.org/): Probably the BEST and totally FOSS note-keeping app I have ever found. Evernote users feel right at home here, blows Apple Notes out of the freakin' water. I wish I'd had this in high school 45 years ago! I'd have gotten that programming degree and had my own startup. (I'm ND and this has made my life less chaotic!)
   2.  [PlatformIO](https://platformio.org/): Still coding in ArduinoIDE? Level up, dudes! Seriously!  Do I have to nag?
 
+- ## Ideas & Weird Sh**
+  1.  I write often about how the internet needs to be truly peer-to-peer at the user level. I think about it a LOT, in fact. Obsessively, according to my wife and friends. It has recently occurred to me that by mashing together wikipedia and github, using github as the CRDT, offline-first database infrastructure, as well as for version control, every human can have a profile, humans can connect directly with humans, every human can have an "opinion" but the opinions based on data or expertise will post with more weight and upvotes from experts in the field will have more weight, such that truth will float. Read this article for the details...
+      https://www.shinyhappyrainbows.com/2024/01/p2p-standards-there-are-many-therefore.html
+  And this article has the backend basics
+      https://betterprogramming.pub/how-to-use-git-as-an-offline-first-database-dca7f9604142
+      The great thing about git as a peer to peer backend is that you have version control and traceability on any post. Proof-of-work is inherently built-in and more compact than, say Ethereum. You only have the snapshots of the posts you're reading or maintaining, not an entire, global blockchain. A user frontend could have a setting to limit the number of vesions retrieved, or edits by specific people. Enourmous space savings. You don't need to hold the whole sky, just what is relevant.
+
+<hr />
 There is more to come. This is going to take a while to build, lots of web crawling, lots of organising my Joplin notes. If you have any sites you'd like for consideration in this list, open an issue with the link in the body and your idea of which section you'd like it included in.

@@ -12,12 +12,14 @@ If you find any links have changed, broken or otherwise gone AWOL, open an issue
 
 - ## Programming
   - ### Javascript
-  1. [Eloquent Javascript](https://eloquentjavascript.net/): Javascript breaks my brain like C/C++ never did, but I work through this a bit at a time. Maybe one day I'll be able to JS the shit out of things.
+    1. [Eloquent Javascript](https://eloquentjavascript.net/): Javascript breaks my brain like C/C++ never did, but I work through this a bit at a time. Maybe one day I'll be able to JS the shit out of things.
   - ### Arduino
-  1. [Arduino Reference](https://www.arduino.cc/reference/en/): The go-to source for Arduino flavoured C
-  2. [Adafruit Learning System](https://learn.adafruit.com/): I don't yet Python, but I'm maintaining this info-repo for everybody, and maybe, one day I might have a project where I'll need this. Adafruit are awesome!
-  3. PlatformIO Docs](https://docs.platformio.org/en/latest/): Still coding in ArduinoIDE? Level up, dudes!
-  4. [Wokwi](https://wokwi.com/): Emulate your sketchs and simulate their supporting circuits without ever breaking out a breadboard or steaming up a soldering iron! It doesn't do everything, but it's not bad for a free app. It has a subscription layer, too, with a few more features. Even supports officially supported Arduino libraries and has a growing range of microcontroller sims. Runs in the browser and in VS Code as an extension.
+    1. [Arduino Reference](https://www.arduino.cc/reference/en/): The go-to source for Arduino flavoured C
+    2. [Adafruit Learning System](https://learn.adafruit.com/): I don't yet Python, but I'm maintaining this info-repo for everybody, and maybe, one day I might have a project where I'll need this. Adafruit are awesome!
+    3. PlatformIO Docs](https://docs.platformio.org/en/latest/): Still coding in ArduinoIDE? Level up, dudes!
+    4. [Wokwi](https://wokwi.com/): Emulate your sketchs and simulate their supporting circuits without ever breaking out a breadboard or steaming up a soldering iron! It doesn't do everything, but it's not bad for a free app. It has a subscription layer, too, with a few more features. Even supports officially supported Arduino libraries and has a growing range of microcontroller sims. Runs in the browser and in VS Code as an extension.
+  - ### C++
+    1. [Learn C++ in 31 Hours (FreeCodeCamp)](https://www.youtube.com/watch?v=8jLOx1hD3_o): I've been doing this over January, to elevate my Arduino C to more general C++
 
 - ## General Pages and Apps
   1.  [Joplin Notes](https://joplinapp.org/): Probably the BEST and totally FOSS note-keeping app I have ever found. Evernote users feel right at home here, blows Apple Notes out of the freakin' water. I wish I'd had this in high school 45 years ago! I'd have gotten that programming degree and had my own startup. (I'm ND and this has made my life less chaotic!)

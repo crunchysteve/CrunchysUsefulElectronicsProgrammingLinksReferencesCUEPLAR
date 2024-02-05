@@ -20,6 +20,12 @@ If you find any links have changed, broken or otherwise gone AWOL, open an issue
     4. [Wokwi](https://wokwi.com/): Emulate your sketchs and simulate their supporting circuits without ever breaking out a breadboard or steaming up a soldering iron! It doesn't do everything, but it's not bad for a free app. It has a subscription layer, too, with a few more features. Even supports officially supported Arduino libraries and has a growing range of microcontroller sims. Runs in the browser and in VS Code as an extension.
   - ### C++
     1. [Learn C++ in 31 Hours (FreeCodeCamp)](https://www.youtube.com/watch?v=8jLOx1hD3_o): I've been doing this over January, to elevate my Arduino C to more general C++
+    2. [wxWidgets](https://siytek.com/macos-gui-cpp/#:~:text=%E2%80%93-,https%3A//www.wxwidgets.org/,-So%E2%80%A6%20how) is a phenomenal C++, x-platform, GUI, application framework
+       that allows you to code a gui app in the commandline, write once, run on many. They're now even working on Android and iOS frameworks. You can literally take their demo
+       app, add interface widgets as per the documentation, add your own C++ functional code to run when fields are filled and buttons are pressed, then compile it for Windows, Mac
+       and Linux, on your choice of platform. My Mac can build for Windows and Linux, as well as for Mac. Your PC can build for Mac and Linix as well as for Windows. (eg: I'm a
+       bicycle nut, I literally have plans for yet another bicycle gearing calculator.)
+    [](3.)
 
 - ## General Pages and Apps
   1.  [Joplin Notes](https://joplinapp.org/): Probably the BEST and totally FOSS note-keeping app I have ever found. Evernote users feel right at home here, blows Apple Notes out of the freakin' water. I wish I'd had this in high school 45 years ago! I'd have gotten that programming degree and had my own startup. (I'm ND and this has made my life less chaotic!)

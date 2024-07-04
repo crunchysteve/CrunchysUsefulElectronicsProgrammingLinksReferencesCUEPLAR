@@ -18,6 +18,7 @@ If you find any links have changed, broken or otherwise gone AWOL, open an issue
     2. [Adafruit Learning System](https://learn.adafruit.com/): I don't yet Python, but I'm maintaining this info-repo for everybody, and maybe, one day I might have a project where I'll need this. Adafruit are awesome!
     3. PlatformIO Docs](https://docs.platformio.org/en/latest/): Still coding in ArduinoIDE? Level up, dudes!
     4. [Wokwi](https://wokwi.com/): Emulate your sketchs and simulate their supporting circuits without ever breaking out a breadboard or steaming up a soldering iron! It doesn't do everything, but it's not bad for a free app. It has a subscription layer, too, with a few more features. Even supports officially supported Arduino libraries and has a growing range of microcontroller sims. Runs in the browser and in VS Code as an extension.
+    5. [Using ATmega 328p chips standalone from UNO board](https://wolles-elektronikkiste.de/en/using-the-atmega328p-standalone)
   - ### C++
     1. [Learn C++ in 31 Hours (FreeCodeCamp)](https://www.youtube.com/watch?v=8jLOx1hD3_o): I've been doing this over January, to elevate my Arduino C to more general C++
     2. [wxWidgets](https://siytek.com/macos-gui-cpp/#:~:text=%E2%80%93-,https%3A//www.wxwidgets.org/,-So%E2%80%A6%20how) is a phenomenal C++, x-platform, GUI, application framework
